@@ -1,0 +1,128 @@
+#org{
+font-size:40px;
+padding-top: 100px;  
+padding-left: 540px;       
+}
+#coor{
+font-size:40px;
+margin-top: 400px;  
+padding-left: 540px;       
+}
+
+.container1{
+ padding-left: 240px;
+    
+    
+}
+#contain1{
+padding-left: 60px;
+margin-top: 500px;
+}
+.container21{
+padding-left: 140px;
+margin-top: 10px;
+    
+}
+
+#shape {
+  height: 150px;
+  width: 150px;
+  background-image: url(images/sekar.png);
+  border-radius: 100px;
+  margin-bottom: 30px;
+  float: left;
+  margin-top:400px;    
+  margin-right: 200px;
+}
+#shape1 {
+  height: 150px;
+  width: 150px;
+  background-image: url(images/chancellor.jpg);
+  border-radius: 100px;
+  margin-bottom: 30px;
+  float: left;
+  margin-top:100px;    
+  margin-right: 150px;
+}
+#shape2 {
+  height: 150px;
+  width: 150px;
+  background-image: url(images/sankar.jpg);
+  border-radius: 100px;
+  margin-bottom: 30px;
+  float: left;
+  margin-top:400px;    
+  margin-right: 200px;
+}
+#shape3 {
+  height: 150px;
+  width: 150px;
+  background-image: url(images/selvam.jpg);
+  border-radius: 100px;
+  margin-bottom: 30px;
+  float: left;
+  margin-top:100px;  
+  margin-right: 240px;
+  
+}
+
+#shape4 {
+  height: 150px;
+  width: 150px;
+  background-image: url(images/daughter.jpg);
+  border-radius: 100px;
+  margin-bottom: 30px;
+  float: left;
+  margin-top:100px;    
+  margin-right: 280px;
+}
+#shape5 {
+  height: 150px;
+  width: 150px;
+  background-image: url(narayan.png);
+  border-radius: 100px;
+  margin-bottom: 30px;
+  float: left;
+  margin-top:100px;    
+  margin-right: 200px;
+}
+#shape6 {
+  height: 150px;
+  width: 150px;
+  background-image: url(raju.png);
+  border-radius: 100px;
+  margin-bottom: 30px;
+  float: left;
+  margin-top:100px;    
+  margin-right: 200px;
+}
+#shape7 {
+  height: 150px;
+  width: 150px;
+  background-image: url(deansas.png);
+  border-radius: 100px;
+  margin-bottom: 30px;
+  float: left;
+  margin-top:100px;    
+  margin-right: 150px;
+}
+#shape8 {
+  height: 150px;
+  width: 150px;
+  background-image: url(anand.png);
+  border-radius: 100px;
+  margin-bottom: 30px;
+  float: left;
+  margin-top:100px;    
+  margin-right: 150px;
+}
+#shape9 {
+  height: 150px;
+  width: 150px;
+  background-image: url(akella.png);
+  border-radius: 100px;
+  margin-bottom: 30px;
+  float: left;
+  margin-top:80px;    
+  margin-right: 150px;
+}
